@@ -1,0 +1,47 @@
+* {
+    margin: 7px;
+    padding: 3px;
+}
+
+body {
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    font-size: 1.45rem;
+
+}
+
+.container {
+    justify-content: center;
+    margin-top: 10%;
+    background-color: gainsboro;
+}
+input{
+    margin-right:10px ;
+}
+#Password-length{
+    height: 20px;
+    position: relative;
+    left: 190px;
+}
+#uppercase{
+    position: relative;
+    left: 140px;
+}
+#lowercase{
+    position: relative;
+    left: 145px
+}
+#number{
+    position: relative;
+    left: 230px;
+}
+#Include-symbols{
+    position: relative;
+    left: 240px;
+}
+#id6{
+    height: 57px;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+}
